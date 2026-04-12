@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2fda3b6c-a52c-456f-9883-85adb2f0d369",
+  "id_short": 441359,
+  "published_at": "2026-04-12T07:59:37Z",
+  "repo_name": "the-hhi-monopoly-index-for-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-441359",
+  "sample_asset_name": "beamstation_441359_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/441359/beamstation_441359_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "daa3017d167897de1605d3192f50f5e7a30f71ad3d45d792305b869d319cc256",
+  "sample_size_bytes": 28621,
+  "total_records": 292
+}
