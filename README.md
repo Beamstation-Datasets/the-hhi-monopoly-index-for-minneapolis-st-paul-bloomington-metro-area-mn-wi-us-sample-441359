@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Minneapolis-St. Paul-Bloomington Metro Area, MN-WI, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `441359` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 156 records |
-| Free sample size | 15 records (9.62%) |
-| Last export | 2026-04-22T05:53:39.122088+00:00 |
+| Full dataset size | 316 records |
+| Free sample size | 31 records (9.81%) |
+| Last export | 2026-04-29T08:02:22.643393+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-441359/releases/download/sample-latest/beamstation_441359_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
